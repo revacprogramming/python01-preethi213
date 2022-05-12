@@ -1,4 +1,5 @@
 # Variables, Expressions & Statements
 
-hrs = float(input("Enter hours? "))
-print(" ",hrs*2.75)
+hrs = float(input())
+r = float(input())
+print("Pay:",hrs*r)
